@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kk8109/type11/issues"
   },
-  "homepage": "https://github.com/kk8109/type11#readme"
+  "homepage": "https://github.com/kk8109/type11#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
